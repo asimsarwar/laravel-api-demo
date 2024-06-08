@@ -7,7 +7,7 @@
 3. Configure your `.env` file
 4. Run migrations: `php artisan migrate`
 5. Run the queue worker: `php artisan queue:work`
-6. Running Unit Tests
+6. Running Unit Tests: `php artisan test`
 
 ## Testing the API
 
